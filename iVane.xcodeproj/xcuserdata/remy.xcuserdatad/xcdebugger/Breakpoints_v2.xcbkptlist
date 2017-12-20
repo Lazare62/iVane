@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iVane/ConnexionViewController.swift"
+            timestampString = "520466665.37038"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ConnexionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.PeripheralsTableView.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITableView&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.285313"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.PeripheralsTableView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITableView&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.288511"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; iVane.ConnexionViewController"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.292719"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;iVane.ConnexionViewController&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.296658"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iVane/ConnexionViewController.swift"
+            timestampString = "520466665.930852"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ConnexionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.charTextField.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.308778"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.charTextField.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.312282"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; iVane.ConnexionViewController"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.315747"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;iVane.ConnexionViewController&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.319181"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iVane/ConnexionViewController.swift"
+            timestampString = "520466666.939141"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ConnexionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.serviceTextField.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.328732"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.serviceTextField.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.331929"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; iVane.ConnexionViewController"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.334935"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;iVane.ConnexionViewController&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.337947"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iVane/ConnexionViewController.swift"
+            timestampString = "520466668.24878"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "ConnexionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.peripherals.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.347268"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.peripherals.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.350634"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; iVane.ConnexionViewController"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.353524"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;iVane.ConnexionViewController&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.356585"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iVane/ConnexionViewController.swift"
+            timestampString = "520466669.095357"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "ConnexionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.context.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.NSManagedObjectContext&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.366042"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.context.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.NSManagedObjectContext&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.369089"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; iVane.ConnexionViewController"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.371412"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;iVane.ConnexionViewController&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.373721"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iVane/ConnexionViewController.swift"
+            timestampString = "520466669.352782"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "ConnexionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.devices.getter : Swift.Array&lt;iVane.Device&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.380795"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.devices.setter : Swift.Array&lt;iVane.Device&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.383141"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; iVane.ConnexionViewController"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.38533"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "308">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;iVane.ConnexionViewController&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.3876"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iVane/ConnexionViewController.swift"
+            timestampString = "520466669.909399"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "ConnexionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.manager.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.CBCentralManager&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.394739"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.manager.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.CBCentralManager&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.397387"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; iVane.ConnexionViewController"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.399597"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;iVane.ConnexionViewController&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.401807"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "308">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iVane/ConnexionViewController.swift"
+            timestampString = "520466670.402351"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "ConnexionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.connectedPeripheral.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.CBPeripheral&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.408866"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.connectedPeripheral.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.CBPeripheral&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.411064"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; iVane.ConnexionViewController"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.413623"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "396">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;iVane.ConnexionViewController&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.415909"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iVane/ConnexionViewController.swift"
+            timestampString = "520466670.888968"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "ConnexionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.vaneCharacteristic.getter : Swift.Optional&lt;__ObjC.CBCharacteristic&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.4228"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.vaneCharacteristic.setter : Swift.Optional&lt;__ObjC.CBCharacteristic&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.42499"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; iVane.ConnexionViewController"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.427123"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "420">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;iVane.ConnexionViewController&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.429179"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iVane/ConnexionViewController.swift"
+            timestampString = "520466671.818438"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "ConnexionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.deviceName.getter : Swift.String"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.436461"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.deviceName.setter : Swift.String"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.438835"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; iVane.ConnexionViewController"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.441"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "436">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;iVane.ConnexionViewController&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.443052"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "372">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iVane/ConnexionViewController.swift"
+            timestampString = "520466672.254263"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "ConnexionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.serviceUUID.getter : __ObjC.CBUUID"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.449963"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.serviceUUID.setter : __ObjC.CBUUID"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.45204"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; iVane.ConnexionViewController"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.454339"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;iVane.ConnexionViewController&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.459318"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "424">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iVane/ConnexionViewController.swift"
+            timestampString = "520466672.627692"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "ConnexionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.charUUID.getter : __ObjC.CBUUID"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.466571"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.charUUID.setter : __ObjC.CBUUID"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.468641"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; iVane.ConnexionViewController"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.470707"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iVane.ConnexionViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;iVane.ConnexionViewController&gt;"
+                  moduleName = "iVane"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/remy/Documents/XcodeProjets/iVane/iVane/ConnexionViewController.swift"
+                  timestampString = "520466754.472743"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "492">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iVane/ConnexionViewController.swift"
+            timestampString = "520466674.826039"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iVane/ConnexionViewController.swift"
+            timestampString = "520466675.11759"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iVane/ConnexionViewController.swift"
+            timestampString = "520466679.582673"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iVane/ConnexionViewController.swift"
+            timestampString = "520466681.171929"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
